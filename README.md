@@ -1,6 +1,5 @@
 # Projeto_NLW
 
-<<<<<<< HEAD
 ## 🖥 Preview 
 
 <p align="center">
@@ -11,7 +10,7 @@
 
 ## 📖 Sobre 
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**, com a instrução de **Mayk Brito** durante os dias 3 a 9 de Agosto de 2020.
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**, com a instrução de **Mayk Brito**, durante os dias 3 a 9 de Agosto de 2020.
 
 A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!! 
 
@@ -50,8 +49,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 ---
 
-
 Desenvolvido por Lucas Rafael Holdefer
-=======
- <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667">
->>>>>>> e1b1c20fd2d9f7ec2ae30d0eb263b44b196b0469
