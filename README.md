@@ -36,7 +36,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/LucasHoldefer/Semana_NLW.git
 
 # Entrar no diretório
-cd proffy-discovery
+cd Semana_NLW
 
 # Baixar as dependências
 npm i
